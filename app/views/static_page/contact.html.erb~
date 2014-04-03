@@ -1,7 +1,7 @@
 <% provide(:title, 'Contact') %> 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Map</title>
+<title>www.bogiaso.com - Chèn Googel Maps vào website</title>
 <!--    Chuỗi khai báo lấy tham số của google maps   -->
 <script type="text/javascript" 
 src="http://maps.googleapis.com/maps/api/js?sensor=false&language=vi"></script>
